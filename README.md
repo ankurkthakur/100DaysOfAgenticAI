@@ -1,5 +1,5 @@
 # 🧠 100 Days of Agentic AI  
-**By [Your Name / CoRover.ai]**
+**By [Ankur Thakur](https://www.linkedin.com/in/ankur-thakur-1b242a192/)**  
 
 A 100-day public journey to make AI, GenAI, and Agentic AI simple and accessible — for everyone.  
 Each day features:
@@ -19,9 +19,6 @@ To explain the world of AI and Agentic AI in plain language, using simple code a
 Each folder = one day 
 
 
-**By [Ankur Thakur](https://www.linkedin.com/in/ankur-thakur-1b242a192/)**  
-
----
 
 
 ### 🎯 Follow  
